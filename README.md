@@ -6,4 +6,4 @@ A compliance and risk professional moving from environmental regulation into cyb
 - 🔐 **Focus areas:** NIST CSF 2.0, risk assessment, identity and access management, security documentation
 -  **Background:** M.Sc. Marine Environment & Resources (Erasmus+), B.Sc. Environmental Management; published environmental health researcher
 
-📫 [LinkedIn](https://www.linkedin.com/in/mujeeb-balogun/) · [Website](https://sites.google.com/view/mujeeb-balogun)
+📫 [LinkedIn](https://www.linkedin.com/in/mujeeb-balogun/) · [Website](https://sites.google.com/view/mujeeb-balogun) [Resume](Mujeeb_Balogun_Resume.pdf)
