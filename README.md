@@ -1,4 +1,4 @@
-### Hi, I'm Mujeeb Balogun 👋
+### Hi, I'm Mujeeb Balogun
 
 A compliance and risk professional moving from environmental regulation into cybersecurity governance, risk, and compliance (GRC). I spent my early career reviewing permits, inspecting regulated facilities, and writing regulatory reports. Now I apply the same habits (evidence, controls, clear documentation) to information security.
 
